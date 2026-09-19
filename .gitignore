@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Outputs are produced by running the code
+results/
+figures/
+
+# Not part of this repository
+paper/
+*.tex
+*.pdf
+
+# Study 4: model weights and raw transcripts stay local
+models/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

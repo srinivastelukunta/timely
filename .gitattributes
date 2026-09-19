@@ -1,0 +1,4 @@
+# Store and check out text as LF on every platform, so results JSON and
+# paper source diff cleanly between Windows and Linux runs.
+* text=auto eol=lf
+*.pdf binary
